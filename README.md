@@ -5,7 +5,7 @@
 ## Identitas Diri
 |Nama Lengkap | Nim | Program Studi | cluster |
 |-------------|-----|---------------|---------|
-|[Naura Kireina Salsabila] | [265150307111039] [teknik komputer] | [3] |
+|[Naura Kireina Salsabila] | [265150307111039] [teknik komputer] | [3] | [17]
 
 ## Kesan Pesan INTRIVIA Sejauh Ini
 [INTRIVIA 2026 sangat seru, menambah pengalaman juga ]
